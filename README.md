@@ -2,7 +2,7 @@
 
 |CVE Number|Type|Company/Product|Description|Article Link|POC Link|
 |---|---|---|---|---|---|
-|CVE-2022-24562|RCE||Not available publicly yet
+|CVE-2022-24562|RCE|IObit/IOTransfer|an unauthenticated attacker can send GET and POST requests to Airserv and gain arbitrary read/write access to the entire file-system (with admin privileges) on the victim's endpoint, which can result in data theft and remote code execution|https://medium.com/@tomerp_77017/exploiting-iotransfer-insecure-api-cve-2022-24562-a2c4a3f9149d|https://github.com/tomerpeled92/CVE/blob/main/CVE-2022%E2%80%9324562
 |CVE-2022-24141|LPE||Not available publicly yet
 |CVE-2022-24140|LPE||Not available publicly yet
 |CVE-2022-24139|LPE||Not available publicly yet
