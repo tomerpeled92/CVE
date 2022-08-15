@@ -3,7 +3,7 @@
 |CVE Number|Type|Company/Product|Description|Article Link|POC Link|
 |---|---|---|---|---|---|
 |CVE-2022-35200|DoS||not published yet|||
-|CVE-2022-35199|DSR||not published yet|||
+|CVE-2022-35199|DoS||not published yet|||
 |CVE-2022-24562|RCE|IObit/IOTransfer|an unauthenticated attacker can send GET and POST requests to Airserv and gain arbitrary read/write access to the entire file-system (with admin privileges) on the victim's endpoint, which can result in data theft and remote code execution|https://medium.com/@tomerp_77017/exploiting-iotransfer-insecure-api-cve-2022-24562-a2c4a3f9149d|https://github.com/tomerpeled92/CVE/tree/main/CVE-2022%E2%80%9324562
 |CVE-2022-24141|LM|IObit/Itop VPN|Lateral Movment with named pipes|N/A|https://github.com/tomerpeled92/CVE/tree/main/CVE-2022-24141
 |CVE-2022-24140|MITM|IObit/Various|MITM attack can lead to code execution|N/A|https://github.com/tomerpeled92/CVE/tree/main/CVE-2022-24140
