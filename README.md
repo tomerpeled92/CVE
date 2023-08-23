@@ -2,6 +2,7 @@
 
 |CVE Number|Type|Company/Product|Description|Article Link|POC Link|
 |---|---|---|---|---|---|
+|CVE-2023-3676|RCE|Kubernetes|||
 |CVE-2023-31462|LPE|SteelSeriesGG <39|Attackers can modify SteelSeriesGG database to execute malicious code in admin context|https://www.akamai.com/blog/security-research/exploit-steelseries-subapp-privilege-escalation|
 |CVE-2023-31461|LPE|SteelSeriesGG <39|Attackers can send packets to SteelSeriesGG API that will lead to malicious code execution in admin context|https://www.akamai.com/blog/security-research/exploit-steelseries-subapp-privilege-escalation|
 |CVE-2022-34689|Spoofing|Windows/Chrome|This vulnerability was discovered by the NSA and NCSC, Me and my coleague analyzed this vulnerability and exploited it|https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi|https://github.com/tomerpeled92/CVE/tree/main/CVE-2022-34689|
