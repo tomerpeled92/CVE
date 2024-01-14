@@ -2,7 +2,7 @@
 
 |CVE Number|Type|Company/Product|Description|Article Link|POC Link|
 |---|---|---|---|---|---|
-|CVE-2024-21320|Spoofing|Microsoft Themes|TBA|TBA|TBA|
+|CVE-2024-21320|Spoofing|Microsoft Themes|Specially crafted themes file allows attackers to spoof their identity, more details soon.|TBA|TBA|
 |CVE-2023-5528|RCE|Kubernetes < 1.28.4|Unsanitized input in kuberentes in-tree plugin allows for a command injection and RCE over all windows nodes in a cluster with SYSTEM privileges|TBA|TBA|
 |CVE-2023-3676|RCE|Kubernetes < 1.28|Unsanitized input in kuberentes subPath feature allows for a command injection and RCE over all windows nodes in a cluster with SYSTEM privileges|https://www.akamai.com/blog/security-research/kubernetes-critical-vulnerability-command-injection|https://github.com/tomerpeled92/CVE/blob/main/CVE-2023-3676/cmd%20execution%20POC.mp4|
 |CVE-2023-31462|LPE|SteelSeriesGG < 39|Attackers can modify SteelSeriesGG database to execute malicious code in admin context|https://www.akamai.com/blog/security-research/exploit-steelseries-subapp-privilege-escalation|
