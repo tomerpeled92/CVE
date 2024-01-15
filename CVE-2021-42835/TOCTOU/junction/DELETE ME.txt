@@ -1,0 +1,2 @@
+Junction folder must be empy inorder to create junciton point .
+Delete this file.
