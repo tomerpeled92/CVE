@@ -2,6 +2,7 @@
 
 |CVE Number|Type|Company/Product|Description|Article Link|Repository Link|
 |---|---|---|---|---|---|
+|CVE-2024-9042|RCE|Kubernetes < TBA|TBA|TBA|TBA|
 |CVE-2024-38030|Spoofing|Microsoft Themes|Security bypass for the patch of CVE-2024-21320|N/A|N/A|
 |CVE-2024-21320|Spoofing|Microsoft Themes|Specially crafted themes file allows attackers to spoof their identity, more details soon.|https://www.akamai.com/blog/security-research/2024/mar/leaking-ntlm-credentials-through-windows-themes|https://github.com/tomerpeled92/CVE/blob/main/CVE-2024-21320|
 |CVE-2023-5528|RCE|Kubernetes < 1.28.4|Unsanitized input in kuberentes in-tree plugin allows for a command injection and RCE over all windows nodes in a cluster with SYSTEM privileges|https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges|https://github.com/tomerpeled92/CVE/blob/main/CVE-2023-5528|
