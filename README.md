@@ -2,6 +2,7 @@
 
 |CVE Number|Type|Company/Product|Description|Article Link|Repository Link|
 |---|---|---|---|---|---|
+|CVE-2026-50335|LPE|Windows < July 2026|TBA|TBA|TBA|
 |GHSA-73cv-556c-w3g6|SQL Injection|Apache Pinot < 3.1.0|Missing sanitization on externally bound MCP server can lead to SQL injection |https://www.akamai.com/blog/security-research/2026/may/one-fluke-3-pattern-mcp-back-end-vulnerabilities|N/A|
 |CVE-2025-66335|SQL Injection|Apache Doris < 0.6|Missing sanitization on an optional parameter could lead to SQL injection through MCP tool call|https://www.akamai.com/blog/security-research/2026/may/one-fluke-3-pattern-mcp-back-end-vulnerabilities|N/A|
 |CVE-2024-9042|RCE|Kubernetes < 1.32.1|Specially crafted packets can enable attackers with kubernetes API access to execute remote code as SYSYTEM on windows endpoints  |https://www.akamai.com/blog/security-research/kubernetes-log-query-rce-windows|TBA|
