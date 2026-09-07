@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|
 |CVE-2026-9680|SQLi|Alibaba RDS MCP Servers|TBA|TBA|TBA|
 |CVE-2026-50335|LPE|Windows < July 2026|TBA|TBA|TBA|
-|GHSA-73cv-556c-w3g6|SQLi|Apache Pinot MCP < 3.1.0|Missing sanitization on externally bound MCP server can lead to SQL injection |https://www.akamai.com/blog/security-research/2026/may/one-fluke-3-pattern-mcp-back-end-vulnerabilities|N/A|
+|**CVE-2026-49257**|SQLi|Apache Pinot MCP < 3.1.0|Missing sanitization on externally bound MCP server can lead to SQL injection |https://www.akamai.com/blog/security-research/2026/may/one-fluke-3-pattern-mcp-back-end-vulnerabilities|N/A|
 |CVE-2025-66335|SQLi|Apache Doris MCP < 0.6|Missing sanitization on an optional parameter could lead to SQL injection through MCP tool call|https://www.akamai.com/blog/security-research/2026/may/one-fluke-3-pattern-mcp-back-end-vulnerabilities|N/A|
 |CVE-2024-9042|RCE|Kubernetes < 1.32.1|Specially crafted packets can enable attackers with kubernetes API access to execute remote code as SYSYTEM on windows endpoints  |https://www.akamai.com/blog/security-research/kubernetes-log-query-rce-windows|TBA|
 |CVE-2024-38030|Spoofing|Microsoft Themes|Security bypass for the patch of CVE-2024-21320|https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38030|N/A|
